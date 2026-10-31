@@ -1,3 +1,5 @@
+![Beyond Automation: KNN and MLP lead into reinforcement learning foundations, with branches to TRPO and robot tasks. Readers may also start with the embodied overview.](assets/readme/reading-roadmap.en.png)
+
 # Beyond Automation: Notes on Embodied Intelligence
 
 [中文](README.md) · **English**
@@ -11,6 +13,12 @@ From deep learning to reinforcement learning and robot tasks, these notes docume
 - rl-xihu: Notes on *Mathematical Principles of Reinforcement Learning*, a course by Shiyu Zhao at Westlake University.
 - deep_learning: Notes from a deep learning course, covering foundational algorithms such as KNN and MLP.
 - rl-algorithms: Notes based on OpenAI's open-source *Spinning Up* resource, covering algorithms such as TRPO, PPO, and SAC.
+
+## Reading roadmap
+
+Follow the solid arrows on the cover, or enter at a topic that matches your background. For a task-first approach, start with the embodied intelligence overview, then revisit the foundations as needed.
+
+The [editable cover and roadmap (PPTX)](reading-roadmap.pptx) sits beside this README: slide 1 is Chinese and slide 2 is English. After saving edits, run `python scripts/export_reading_roadmap.py` to update both covers.
 
 ## Course materials
 
