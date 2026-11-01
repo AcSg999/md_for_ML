@@ -1,4 +1,3 @@
-![Beyond Automation: KNN and MLP lead into reinforcement learning foundations, with branches to TRPO and robot tasks. Readers may also start with the embodied overview.](assets/readme/reading-roadmap.en.png)
 
 # Beyond Automation: Notes on Embodied Intelligence
 

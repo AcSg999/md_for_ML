@@ -1,4 +1,3 @@
-![自动化之后：从 KNN、MLP 进入强化学习基础，分支到 TRPO 与具身任务；也可先读具身总览。](assets/readme/reading-roadmap.zh.png)
 
 # 自动化之后--具身智能学习笔记
 
